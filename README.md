@@ -22,3 +22,6 @@ pip install -r requirements.txt
 
 2. Run dashboard:
 streamlit run dashboard/dashboard.py
+
+
+![Uploading studentdashborad.png…]()
